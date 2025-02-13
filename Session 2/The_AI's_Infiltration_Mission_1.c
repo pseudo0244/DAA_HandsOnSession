@@ -85,4 +85,4 @@ int main() {
     printf("%d\n", minLatency);
 
     return 0;
-}
+}  
