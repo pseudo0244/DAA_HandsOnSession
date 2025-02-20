@@ -124,4 +124,4 @@ int main()
     johnsonTrotter(n, nums, dir, k);
 
     return 0;
-}
+}  
